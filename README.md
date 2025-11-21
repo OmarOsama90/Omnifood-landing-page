@@ -32,3 +32,34 @@ HTML5
 CSS3 (Grid, Flexbox, custom styling)
 
 JavaScript (DOM manipulation, mobile nav logic)
+
+📁 Project Structure
+project-folder
+│── index.html
+│── style.css
+│── general.css
+│── queries.css
+│── script.js
+└── img/
+
+📸 Preview
+
+(Add screenshots later لو حابب)
+
+🌍 Live Demo
+
+Netlify Link: Coming Soon
+GitHub Pages: Coming Soon
+
+📦 How to Run Locally
+
+Download or clone the repo
+
+Open index.html directly in the browser
+
+Done ✔️
+
+👨‍💻 Author
+
+Omar Osama
+Frontend Developer
